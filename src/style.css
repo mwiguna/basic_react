@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*  
+    Setelah di compile, ini akan jadi tailwindbuild.css dan itu yang di import, bukan file ini, file ini namanya postcss (mirip scss/sass)
+    Compile berjalan secara realtime
+   
+    npx tailwindcss -i ./src/style.css -o ./src/tailwindbuild.css --watch
+*/
+
+.gold {
+    color: orange
+}
+
+.btn {
+    @apply text-xs font-bold py-1 px-4 rounded-full;
+}
+.btn-blue {
+    @apply bg-blue-500 text-white;
+}
+.btn-blue:hover {
+    @apply bg-blue-700;
+}
+

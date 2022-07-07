@@ -1,0 +1,4 @@
+1. ini pakai json server
+2. npx json-server --watch data/db.json --port 8000
+
+semua di folder ini tidak berkaitan dengan react

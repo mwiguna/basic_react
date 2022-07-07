@@ -1,0 +1,39 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "nama": "tiqa",
+      "content": "Halo guysss!"
+    },
+    {
+      "id": 2,
+      "nama": "toni",
+      "content": "Wasapp!"
+    },
+    {
+      "nama": "budi",
+      "content": "arisan yuk",
+      "id": 4
+    },
+    {
+      "nama": "tiqa",
+      "content": "fernanda",
+      "id": 5
+    },
+    {
+      "nama": "blog",
+      "content": "status",
+      "id": 6
+    },
+    {
+      "nama": "yeyeey",
+      "content": "jhon",
+      "id": 7
+    },
+    {
+      "nama": "biru",
+      "content": "biru",
+      "id": 9
+    }
+  ]
+}
